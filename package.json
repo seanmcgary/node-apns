@@ -1,0 +1,37 @@
+{
+  "name": "node-apns",
+  "preferGlobal": "true",
+  "version": "0.0.1",
+  "author": "Sean McGary <sean@seanmcgary.com>",
+  "description": "Apple Push Notification Service module for NodeJS",
+  "contributors": [ 
+    {
+      "name": "Sean McGary",
+      "email": "sean@seanmcgary.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanmcgary/node-apns.git"
+  },
+  "keywords": [
+    "nodejs",
+    "apn",
+    "apns",
+	"apple",
+	"push",
+	"notification",
+	"service"
+  ],
+  "dependencies" : {
+  },
+  "noAnalyze": true,
+  "devDependencies": {
+  },
+  "bundleDependencies": [
+  ],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6.16"
+  }
+}
