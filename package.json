@@ -23,13 +23,7 @@
 	"notification",
 	"service"
   ],
-  "dependencies" : {
-  },
-  "noAnalyze": true,
-  "devDependencies": {
-  },
-  "bundleDependencies": [
-  ],
+  "main": "index.js",
   "license": "MIT",
   "engine": {
     "node": ">=0.6.16"
